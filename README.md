@@ -1,1 +1,1 @@
-![My Image]("C:\Users\mahmo\Desktop\ERD.png")
+![My Image]("/mahmo/Desktop/ERD.png")
